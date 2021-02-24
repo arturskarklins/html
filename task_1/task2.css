@@ -1,0 +1,30 @@
+﻿.header {
+  text-align: center;
+}
+
+.table {
+  text-align: center;
+  border: 2px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.red {
+  border: 2px solid red;
+  color: red;
+}
+
+.blue {
+  border: 2px solid blue;
+  color: blue;
+}
+
+.cassual {
+  border: 2px solid black;
+  color: black;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
